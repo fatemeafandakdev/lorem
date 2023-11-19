@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lorem/static/css/main.ee45df6d.css",
+    "main.js": "/lorem/static/js/main.4100ce30.js",
+    "index.html": "/lorem/index.html",
+    "main.ee45df6d.css.map": "/lorem/static/css/main.ee45df6d.css.map",
+    "main.4100ce30.js.map": "/lorem/static/js/main.4100ce30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee45df6d.css",
+    "static/js/main.4100ce30.js"
+  ]
+}
